@@ -16,4 +16,3 @@ def RawgScraper1():
 
 if __name__ == '__main__':
     RawgScraper1()
-    RawgScraper1()
